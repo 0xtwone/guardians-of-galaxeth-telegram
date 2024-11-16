@@ -1,0 +1,14 @@
+{
+  "name": "guardians-of-galaxeth",
+  "version": "1.0.0",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "vercel": "^39.0.2"
+  },
+  "scripts": {
+    "start": "node bot-server.js"
+  }
+}
